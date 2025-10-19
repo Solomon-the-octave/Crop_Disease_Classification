@@ -33,7 +33,7 @@ To evaluate which approach generalizes better for real-world plant disease detec
 
 
 
-### 📚 Author & Info
+### Author & Info
 -  **Wengelawit Ayalew Solomon**
 -  **October 10/19/2025**
 -  Project for the course: *Machine Learning
